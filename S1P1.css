@@ -1,0 +1,61 @@
+/* ESERCIZIO 1 */
+.display-4 { 
+  background-color: lightcoral;
+}
+
+/* ESERCIZIO 2 */
+.nav *{
+  background-color: lightblue;
+}
+
+/* ESERCIZIO 3 */
+.font-weight-bold,
+.stretched-link {
+  background-color: lightgreen;
+}
+
+/* ESERCIZIO 4 */
+.col-md-8 div:first-of-type {
+  background-color: lightsalmon;
+}
+
+/* ESERCIZIO 5 */
+.col-md-8 div:first-of-type hr {
+  border-top: 2px solid red;
+}
+
+/* ESERCIZIO 6 */
+.nav span:nth-child(even) {
+  background-color: lightgray;
+}
+
+/* ESERCIZIO 7 */
+.blog-sidebar div:nth-child(2) ol li{
+  background-color: lightpink;
+}
+
+/* ESERCIZIO 8 */
+.col-md-8 div:nth-child(3) .blog-post-meta a {
+  background-color: lightseagreen;
+}
+
+/* ESERCIZIO 9 */
+.col-md-8 div:nth-child(4) ul li:nth-child(2) {
+  background-color: lightsteelblue;
+}
+
+/* ESERCIZIO 10 */
+.float-right {
+  background-color: rgb(168, 81, 168);
+}
+
+/* ESERCIZIO 11 */
+.blog-pagination a:nth-child(2) {
+  background-color: rgb(91, 91, 166);
+  color: red;
+}
+
+/* ESERCIZIO 12 */
+.blog-footer p a:nth-child(2) {
+  background-color: red;
+}
